@@ -15,8 +15,14 @@ LINE = (
     "never hours or promises."
 )
 
+# The competition gate: /output/entry.txt must be UTF-8 text of 1-240
+# characters, not only white space. Refuse to write anything else.
+MAX_CHARS = 240
+
 
 def main() -> None:
+    if not 1 <= len(LINE) <= MAX_CHARS or not LINE.strip():
+        raise SystemExit(f"entry is {len(LINE)} chars, outside the 1-240 gate")
     os.makedirs("/output", exist_ok=True)
     with open("/output/entry.txt", "w", encoding="utf-8", newline="") as f:
         f.write(LINE)
