@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf.svg)](https://make.fun/bounty/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
+[![rank](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/berkahmuse/makefun-walrus-syukuran/rank.svg)](https://make.fun/bounty/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
+[![reward](https://make.fun/badge/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf/berkahmuse/makefun-walrus-syukuran/reward.svg)](https://make.fun/bounty/u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf)
+
 # One Line That Makes a Builder Fund a Bounty — @syukuran entry
 
 Competition: `u-witty-walrus-69-5301-one-line-that-makes-a-builder-871d7faf`
